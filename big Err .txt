@@ -1,0 +1,2180 @@
+*********************************
+	communication start
+*********************************
+
+p0  at  [4.934154468334931, 0.7917040574035319]
+p1  at  [8.992853591504359, 6.258225126383323]
+p2  at  [0.3191781075717919, 8.382158728722189]
+p3  at  [2.405148037849222, 6.418554633790961]
+p4  at  [9.226827640982787, 9.904664669288909]
+p0 	's neighbor is : ['p1', 'p3']
+p1 	's neighbor is : ['p0', 'p2', 'p3', 'p4']
+p2 	's neighbor is : ['p1', 'p3', 'p4']
+p3 	's neighbor is : ['p0', 'p1', 'p2', 'p4']
+p4 	's neighbor is : ['p1', 'p2', 'p3']
+
+*************************
+
+p0 	need send message to	 p1
+p1 	need send message to	 p4
+p2 	need send message to	 p4
+p3 	need send message to	 p4
+p4 	need send message to	 p3
+
+********** Time:  0  **********
+
+p0 	ask to shake hand with	 p1
+p1 	ask to shake hand with	 p4
+p2 	ask to shake hand with	 p4
+p3 	ask to shake hand with	 p4
+p4 	ask to shake hand with	 p3
+
+********** Time:  1  **********
+
+
+********** Time:  2  **********
+
+
+********** Time:  3  **********
+
+p1 	ask to shake hand with	 p4
+p4 	ask to shake hand with	 p3
+
+********** Time:  4  **********
+
+
+********** Time:  5  **********
+
+
+********** Time:  6  **********
+
+p0 	ask to shake hand with	 p1
+p2 	ask to shake hand with	 p4
+
+********** Time:  7  **********
+
+p4 	response the shake hand ask from	 p2
+
+********** Time:  8  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  9  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  10  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  11  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  12  **********
+
+p1 	ask to shake hand with	 p4
+p3 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  13  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  14  **********
+
+p0 	ask to shake hand with	 p1
+p2 	is sending message to	 p4
+
+********** Time:  15  **********
+
+
+********** Time:  16  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  17  **********
+
+p0 	ask to shake hand with	 p1
+p3 	ask to shake hand with	 p4
+p4 	response the shake hand ask from	 p2
+
+********** Time:  18  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  19  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  20  **********
+
+p1 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  21  **********
+
+p0 	ask to shake hand with	 p1
+p3 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  22  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  23  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  24  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  25  **********
+
+
+********** Time:  26  **********
+
+p1 	ask to shake hand with	 p4
+p2 	ask to shake hand with	 p4
+
+********** Time:  27  **********
+
+p4 	ask to shake hand with	 p3
+
+********** Time:  28  **********
+
+p3 	response the shake hand ask from	 p4
+
+********** Time:  29  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  30  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  31  **********
+
+p2 	ask to shake hand with	 p4
+p4 	is sending message to	 p3
+
+********** Time:  32  **********
+
+p1 	ask to shake hand with	 p4
+p4 	is sending message to	 p3
+
+********** Time:  33  **********
+
+p0 	ask to shake hand with	 p1
+p4 	is sending message to	 p3
+
+********** Time:  34  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  35  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  36  **********
+
+
+********** Time:  37  **********
+
+p1 	ask to shake hand with	 p4
+p4 	ask to shake hand with	 p3
+
+********** Time:  38  **********
+
+p3 	ask to shake hand with	 p4
+
+********** Time:  39  **********
+
+p0 	ask to shake hand with	 p1
+p4 	response the shake hand ask from	 p3
+
+********** Time:  40  **********
+
+p2 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  41  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  42  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  43  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  44  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  45  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  46  **********
+
+p0 	ask to shake hand with	 p1
+p3 	is sending message to	 p4
+
+********** Time:  47  **********
+
+p1 	ask to shake hand with	 p4
+
+********** Time:  48  **********
+
+p3 	ask to shake hand with	 p4
+
+********** Time:  49  **********
+
+p4 	response the shake hand ask from	 p3
+
+********** Time:  50  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  51  **********
+
+p0 	ask to shake hand with	 p1
+p1 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  52  **********
+
+p2 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  53  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  54  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  55  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  56  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  57  **********
+
+
+********** Time:  58  **********
+
+p3 	ask to shake hand with	 p4
+
+********** Time:  59  **********
+
+p1 	ask to shake hand with	 p4
+p4 	response the shake hand ask from	 p3
+
+********** Time:  60  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  61  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  62  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  63  **********
+
+p0 	ask to shake hand with	 p1
+p3 	is sending message to	 p4
+
+********** Time:  64  **********
+
+p2 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  65  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  66  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  67  **********
+
+p1 	ask to shake hand with	 p4
+
+********** Time:  68  **********
+
+p3 	ask to shake hand with	 p4
+
+********** Time:  69  **********
+
+p4 	response the shake hand ask from	 p3
+
+********** Time:  70  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  71  **********
+
+p1 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  72  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  73  **********
+
+p0 	ask to shake hand with	 p1
+p3 	is sending message to	 p4
+
+********** Time:  74  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  75  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  76  **********
+
+p0 	ask to shake hand with	 p1
+p2 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  77  **********
+
+
+********** Time:  78  **********
+
+p3 	ask to shake hand with	 p4
+
+********** Time:  79  **********
+
+p4 	response the shake hand ask from	 p3
+
+********** Time:  80  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  81  **********
+
+p0 	ask to shake hand with	 p1
+p2 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  82  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  83  **********
+
+p1 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  84  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  85  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  86  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  87  **********
+
+
+********** Time:  88  **********
+
+p3 	ask to shake hand with	 p4
+
+********** Time:  89  **********
+
+p4 	response the shake hand ask from	 p3
+
+********** Time:  90  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  91  **********
+
+p2 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  92  **********
+
+p1 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  93  **********
+
+p0 	ask to shake hand with	 p1
+p3 	is sending message to	 p4
+
+********** Time:  94  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  95  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  96  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  97  **********
+
+
+********** Time:  98  **********
+
+p2 	ask to shake hand with	 p4
+p3 	ask to shake hand with	 p4
+
+********** Time:  99  **********
+
+p1 	ask to shake hand with	 p4
+p4 	ask to shake hand with	 p3
+
+********** Time:  100  **********
+
+
+********** Time:  101  **********
+
+p0 	ask to shake hand with	 p1
+
+********** Time:  102  **********
+
+p1 	response the shake hand ask from	 p0
+
+********** Time:  103  **********
+
+p0 	is sending message to	 p1
+
+********** Time:  104  **********
+
+p0 	is sending message to	 p1
+
+********** Time:  105  **********
+
+p0 	is sending message to	 p1
+
+********** Time:  106  **********
+
+p0 	is sending message to	 p1
+
+********** Time:  107  **********
+
+p2 	ask to shake hand with	 p4
+p0 	is sending message to	 p1
+
+********** Time:  108  **********
+
+p0 	is sending message to	 p1
+
+********** Time:  109  **********
+
+p3 	ask to shake hand with	 p4
+p0 	is sending message to	 p1
+
+********** Time:  110  **********
+
+p4 	ask to shake hand with	 p3
+
+********** Time:  111  **********
+
+p0 	ask to shake hand with	 p1
+p2 	ask to shake hand with	 p4
+
+********** Time:  112  **********
+
+p1 	ask to shake hand with	 p4
+
+********** Time:  113  **********
+
+
+********** Time:  114  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  115  **********
+
+
+********** Time:  116  **********
+
+
+********** Time:  117  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  118  **********
+
+p3 	ask to shake hand with	 p4
+
+********** Time:  119  **********
+
+p0 	ask to shake hand with	 p1
+
+********** Time:  120  **********
+
+p1 	response the shake hand ask from	 p0
+
+********** Time:  121  **********
+
+p4 	ask to shake hand with	 p3
+p0 	is sending message to	 p1
+
+********** Time:  122  **********
+
+p2 	ask to shake hand with	 p4
+p0 	is sending message to	 p1
+
+********** Time:  123  **********
+
+p3 	ask to shake hand with	 p4
+p0 	is sending message to	 p1
+
+********** Time:  124  **********
+
+p0 	is sending message to	 p1
+
+********** Time:  125  **********
+
+p0 	is sending message to	 p1
+
+********** Time:  126  **********
+
+p4 	ask to shake hand with	 p3
+p0 	is sending message to	 p1
+
+********** Time:  127  **********
+
+p2 	ask to shake hand with	 p4
+p0 	is sending message to	 p1
+
+********** Time:  128  **********
+
+
+********** Time:  129  **********
+
+p0 	ask to shake hand with	 p1
+
+********** Time:  130  **********
+
+p2 	ask to shake hand with	 p4
+p1 	response the shake hand ask from	 p0
+
+********** Time:  131  **********
+
+p0 	is sending message to	 p1
+
+********** Time:  132  **********
+
+p4 	ask to shake hand with	 p3
+p0 	is sending message to	 p1
+
+********** Time:  133  **********
+
+p0 	is sending message to	 p1
+
+********** Time:  134  **********
+
+p0 	is sending message to	 p1
+
+********** Time:  135  **********
+
+p3 	ask to shake hand with	 p4
+p0 	is sending message to	 p1
+
+********** Time:  136  **********
+
+p0 	is sending message to	 p1
+
+********** Time:  137  **********
+
+p0 	is sending message to	 p1
+
+********** Time:  138  **********
+
+p4 	ask to shake hand with	 p3
+
+********** Time:  139  **********
+
+p0 	ask to shake hand with	 p1
+p2 	ask to shake hand with	 p4
+p3 	ask to shake hand with	 p4
+
+********** Time:  140  **********
+
+p1 	ask to shake hand with	 p4
+
+********** Time:  141  **********
+
+
+********** Time:  142  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  143  **********
+
+
+********** Time:  144  **********
+
+
+********** Time:  145  **********
+
+p4 	ask to shake hand with	 p3
+
+********** Time:  146  **********
+
+p3 	response the shake hand ask from	 p4
+
+********** Time:  147  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  148  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  149  **********
+
+p0 	ask to shake hand with	 p1
+p1 	ask to shake hand with	 p4
+p2 	ask to shake hand with	 p4
+p4 	is sending message to	 p3
+
+********** Time:  150  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  151  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  152  **********
+
+p0 	ask to shake hand with	 p1
+p4 	is sending message to	 p3
+
+********** Time:  153  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  154  **********
+
+p1 	ask to shake hand with	 p4
+
+********** Time:  155  **********
+
+p2 	ask to shake hand with	 p4
+p4 	ask to shake hand with	 p3
+
+********** Time:  156  **********
+
+p3 	ask to shake hand with	 p4
+
+********** Time:  157  **********
+
+p4 	response the shake hand ask from	 p3
+
+********** Time:  158  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  159  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  160  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  161  **********
+
+p0 	ask to shake hand with	 p1
+p3 	is sending message to	 p4
+
+********** Time:  162  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  163  **********
+
+p1 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  164  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  165  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  166  **********
+
+p3 	ask to shake hand with	 p4
+
+********** Time:  167  **********
+
+p4 	response the shake hand ask from	 p3
+
+********** Time:  168  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  169  **********
+
+p0 	ask to shake hand with	 p1
+p1 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  170  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  171  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  172  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  173  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  174  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  175  **********
+
+
+********** Time:  176  **********
+
+p2 	ask to shake hand with	 p4
+p3 	ask to shake hand with	 p4
+
+********** Time:  177  **********
+
+p0 	ask to shake hand with	 p1
+p4 	ask to shake hand with	 p3
+
+********** Time:  178  **********
+
+
+********** Time:  179  **********
+
+
+********** Time:  180  **********
+
+
+********** Time:  181  **********
+
+p1 	ask to shake hand with	 p4
+
+********** Time:  182  **********
+
+p4 	response the shake hand ask from	 p1
+
+********** Time:  183  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  184  **********
+
+p0 	ask to shake hand with	 p1
+p2 	ask to shake hand with	 p4
+p1 	is sending message to	 p4
+
+********** Time:  185  **********
+
+p3 	ask to shake hand with	 p4
+p1 	is sending message to	 p4
+
+********** Time:  186  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  187  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  188  **********
+
+p0 	ask to shake hand with	 p1
+p1 	is sending message to	 p4
+
+********** Time:  189  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  190  **********
+
+p3 	ask to shake hand with	 p4
+
+********** Time:  191  **********
+
+p1 	ask to shake hand with	 p4
+p2 	ask to shake hand with	 p4
+
+********** Time:  192  **********
+
+p4 	ask to shake hand with	 p3
+
+********** Time:  193  **********
+
+
+********** Time:  194  **********
+
+p1 	ask to shake hand with	 p4
+
+********** Time:  195  **********
+
+p0 	ask to shake hand with	 p1
+p4 	response the shake hand ask from	 p1
+
+********** Time:  196  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  197  **********
+
+p3 	ask to shake hand with	 p4
+p1 	is sending message to	 p4
+
+********** Time:  198  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  199  **********
+
+p0 	ask to shake hand with	 p1
+p1 	is sending message to	 p4
+
+********** Time:  200  **********
+
+p3 	ask to shake hand with	 p4
+p1 	is sending message to	 p4
+
+********** Time:  201  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  202  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  203  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  204  **********
+
+p0 	ask to shake hand with	 p1
+p1 	ask to shake hand with	 p4
+
+********** Time:  205  **********
+
+p4 	response the shake hand ask from	 p1
+
+********** Time:  206  **********
+
+p2 	ask to shake hand with	 p4
+p1 	is sending message to	 p4
+
+********** Time:  207  **********
+
+p3 	ask to shake hand with	 p4
+p1 	is sending message to	 p4
+
+********** Time:  208  **********
+
+p0 	ask to shake hand with	 p1
+p1 	is sending message to	 p4
+
+********** Time:  209  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  210  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  211  **********
+
+p2 	ask to shake hand with	 p4
+p1 	is sending message to	 p4
+
+********** Time:  212  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  213  **********
+
+
+********** Time:  214  **********
+
+p1 	ask to shake hand with	 p4
+
+********** Time:  215  **********
+
+p4 	response the shake hand ask from	 p1
+
+********** Time:  216  **********
+
+p0 	ask to shake hand with	 p1
+p3 	ask to shake hand with	 p4
+p1 	is sending message to	 p4
+
+********** Time:  217  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  218  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  219  **********
+
+p0 	ask to shake hand with	 p1
+p1 	is sending message to	 p4
+
+********** Time:  220  **********
+
+p2 	ask to shake hand with	 p4
+p1 	is sending message to	 p4
+
+********** Time:  221  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  222  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  223  **********
+
+
+********** Time:  224  **********
+
+p1 	ask to shake hand with	 p4
+
+********** Time:  225  **********
+
+p4 	response the shake hand ask from	 p1
+
+********** Time:  226  **********
+
+p3 	ask to shake hand with	 p4
+p1 	is sending message to	 p4
+
+********** Time:  227  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  228  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  229  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  230  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  231  **********
+
+p0 	ask to shake hand with	 p1
+p2 	ask to shake hand with	 p4
+p1 	is sending message to	 p4
+
+********** Time:  232  **********
+
+p1 	is sending message to	 p4
+
+********** Time:  233  **********
+
+
+********** Time:  234  **********
+
+p1 	ask to shake hand with	 p4
+p3 	ask to shake hand with	 p4
+
+********** Time:  235  **********
+
+p2 	ask to shake hand with	 p4
+p4 	ask to shake hand with	 p3
+
+********** Time:  236  **********
+
+
+********** Time:  237  **********
+
+
+********** Time:  238  **********
+
+
+********** Time:  239  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  240  **********
+
+p0 	ask to shake hand with	 p1
+p4 	response the shake hand ask from	 p2
+
+********** Time:  241  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  242  **********
+
+p1 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  243  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  244  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  245  **********
+
+p3 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  246  **********
+
+p1 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  247  **********
+
+p0 	ask to shake hand with	 p1
+p2 	is sending message to	 p4
+
+********** Time:  248  **********
+
+
+********** Time:  249  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  250  **********
+
+p4 	response the shake hand ask from	 p2
+
+********** Time:  251  **********
+
+p1 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  252  **********
+
+p0 	ask to shake hand with	 p1
+p2 	is sending message to	 p4
+
+********** Time:  253  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  254  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  255  **********
+
+p3 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  256  **********
+
+p0 	ask to shake hand with	 p1
+p2 	is sending message to	 p4
+
+********** Time:  257  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  258  **********
+
+
+********** Time:  259  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  260  **********
+
+p0 	ask to shake hand with	 p1
+p1 	ask to shake hand with	 p4
+p4 	response the shake hand ask from	 p2
+
+********** Time:  261  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  262  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  263  **********
+
+p0 	ask to shake hand with	 p1
+p3 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  264  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  265  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  266  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  267  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  268  **********
+
+
+********** Time:  269  **********
+
+p0 	ask to shake hand with	 p1
+p2 	ask to shake hand with	 p4
+
+********** Time:  270  **********
+
+p1 	ask to shake hand with	 p4
+p4 	response the shake hand ask from	 p2
+
+********** Time:  271  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  272  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  273  **********
+
+p0 	ask to shake hand with	 p1
+p2 	is sending message to	 p4
+
+********** Time:  274  **********
+
+p3 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  275  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  276  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  277  **********
+
+p1 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  278  **********
+
+
+********** Time:  279  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  280  **********
+
+p4 	response the shake hand ask from	 p2
+
+********** Time:  281  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  282  **********
+
+p3 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  283  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  284  **********
+
+p0 	ask to shake hand with	 p1
+p2 	is sending message to	 p4
+
+********** Time:  285  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  286  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  287  **********
+
+p1 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  288  **********
+
+
+********** Time:  289  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  290  **********
+
+p0 	ask to shake hand with	 p1
+p4 	response the shake hand ask from	 p2
+
+********** Time:  291  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  292  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  293  **********
+
+p0 	ask to shake hand with	 p1
+p2 	is sending message to	 p4
+
+********** Time:  294  **********
+
+p3 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  295  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  296  **********
+
+p1 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  297  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  298  **********
+
+
+********** Time:  299  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  300  **********
+
+p4 	response the shake hand ask from	 p2
+
+********** Time:  301  **********
+
+p0 	ask to shake hand with	 p1
+p2 	is sending message to	 p4
+
+********** Time:  302  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  303  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  304  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  305  **********
+
+p3 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  306  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  307  **********
+
+p0 	ask to shake hand with	 p1
+p2 	is sending message to	 p4
+
+********** Time:  308  **********
+
+p1 	ask to shake hand with	 p4
+
+********** Time:  309  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  310  **********
+
+p4 	response the shake hand ask from	 p2
+
+********** Time:  311  **********
+
+p3 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  312  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  313  **********
+
+p1 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  314  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  315  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  316  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  317  **********
+
+p3 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  318  **********
+
+p0 	ask to shake hand with	 p1
+
+********** Time:  319  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  320  **********
+
+p3 	ask to shake hand with	 p4
+p4 	response the shake hand ask from	 p2
+
+********** Time:  321  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  322  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  323  **********
+
+p0 	ask to shake hand with	 p1
+p2 	is sending message to	 p4
+
+********** Time:  324  **********
+
+p1 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  325  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  326  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  327  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  328  **********
+
+
+********** Time:  329  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  330  **********
+
+p0 	ask to shake hand with	 p1
+p4 	response the shake hand ask from	 p2
+
+********** Time:  331  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  332  **********
+
+p3 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  333  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  334  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  335  **********
+
+p1 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  336  **********
+
+p0 	ask to shake hand with	 p1
+p2 	is sending message to	 p4
+
+********** Time:  337  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  338  **********
+
+
+********** Time:  339  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  340  **********
+
+p4 	response the shake hand ask from	 p2
+
+********** Time:  341  **********
+
+p3 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  342  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  343  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  344  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  345  **********
+
+p0 	ask to shake hand with	 p1
+p2 	is sending message to	 p4
+
+********** Time:  346  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  347  **********
+
+p1 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  348  **********
+
+p3 	ask to shake hand with	 p4
+
+********** Time:  349  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  350  **********
+
+p4 	response the shake hand ask from	 p2
+
+********** Time:  351  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  352  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  353  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  354  **********
+
+p0 	ask to shake hand with	 p1
+p2 	is sending message to	 p4
+
+********** Time:  355  **********
+
+p1 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  356  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  357  **********
+
+p3 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  358  **********
+
+
+********** Time:  359  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  360  **********
+
+p0 	ask to shake hand with	 p1
+p4 	response the shake hand ask from	 p2
+
+********** Time:  361  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  362  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  363  **********
+
+p1 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  364  **********
+
+p3 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  365  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  366  **********
+
+p1 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  367  **********
+
+p3 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  368  **********
+
+
+********** Time:  369  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  370  **********
+
+p0 	ask to shake hand with	 p1
+p4 	response the shake hand ask from	 p2
+
+********** Time:  371  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  372  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  373  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  374  **********
+
+p1 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  375  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  376  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  377  **********
+
+p3 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  378  **********
+
+
+********** Time:  379  **********
+
+p0 	ask to shake hand with	 p1
+p2 	ask to shake hand with	 p4
+
+********** Time:  380  **********
+
+p4 	response the shake hand ask from	 p2
+
+********** Time:  381  **********
+
+p3 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  382  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  383  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  384  **********
+
+p0 	ask to shake hand with	 p1
+p2 	is sending message to	 p4
+
+********** Time:  385  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  386  **********
+
+p1 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  387  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  388  **********
+
+
+********** Time:  389  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  390  **********
+
+p3 	ask to shake hand with	 p4
+p4 	response the shake hand ask from	 p2
+
+********** Time:  391  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  392  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  393  **********
+
+p0 	ask to shake hand with	 p1
+p1 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  394  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  395  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  396  **********
+
+p1 	ask to shake hand with	 p4
+p2 	is sending message to	 p4
+
+********** Time:  397  **********
+
+p2 	is sending message to	 p4
+
+********** Time:  398  **********
+
+
+********** Time:  399  **********
+
+p0 	ask to shake hand with	 p1
+p1 	ask to shake hand with	 p4
+p2 	ask to shake hand with	 p4
+
+********** Time:  400  **********
+
+p4 	ask to shake hand with	 p3
+
+********** Time:  401  **********
+
+p3 	response the shake hand ask from	 p4
+
+********** Time:  402  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  403  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  404  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  405  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  406  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  407  **********
+
+p2 	ask to shake hand with	 p4
+p4 	is sending message to	 p3
+
+********** Time:  408  **********
+
+p1 	ask to shake hand with	 p4
+p4 	is sending message to	 p3
+
+********** Time:  409  **********
+
+
+********** Time:  410  **********
+
+p0 	ask to shake hand with	 p1
+p4 	ask to shake hand with	 p3
+
+********** Time:  411  **********
+
+p3 	ask to shake hand with	 p4
+
+********** Time:  412  **********
+
+p2 	ask to shake hand with	 p4
+p4 	response the shake hand ask from	 p3
+
+********** Time:  413  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  414  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  415  **********
+
+p2 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  416  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  417  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  418  **********
+
+p1 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  419  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  420  **********
+
+p0 	ask to shake hand with	 p1
+
+********** Time:  421  **********
+
+p3 	ask to shake hand with	 p4
+
+********** Time:  422  **********
+
+p4 	response the shake hand ask from	 p3
+
+********** Time:  423  **********
+
+p2 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  424  **********
+
+p1 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  425  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  426  **********
+
+p0 	ask to shake hand with	 p1
+p3 	is sending message to	 p4
+
+********** Time:  427  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  428  **********
+
+p1 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  429  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  430  **********
+
+
+********** Time:  431  **********
+
+p3 	ask to shake hand with	 p4
+
+********** Time:  432  **********
+
+p4 	response the shake hand ask from	 p3
+
+********** Time:  433  **********
+
+p2 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  434  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  435  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  436  **********
+
+p0 	ask to shake hand with	 p1
+p3 	is sending message to	 p4
+
+********** Time:  437  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  438  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  439  **********
+
+p1 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  440  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  441  **********
+
+p3 	ask to shake hand with	 p4
+
+********** Time:  442  **********
+
+p4 	response the shake hand ask from	 p3
+
+********** Time:  443  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  444  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  445  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  446  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  447  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  448  **********
+
+p0 	ask to shake hand with	 p1
+p3 	is sending message to	 p4
+
+********** Time:  449  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  450  **********
+
+p1 	ask to shake hand with	 p4
+p2 	ask to shake hand with	 p4
+
+********** Time:  451  **********
+
+p3 	ask to shake hand with	 p4
+
+********** Time:  452  **********
+
+p4 	response the shake hand ask from	 p3
+
+********** Time:  453  **********
+
+p0 	ask to shake hand with	 p1
+p1 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  454  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  455  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  456  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  457  **********
+
+p2 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  458  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  459  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  460  **********
+
+
+********** Time:  461  **********
+
+p2 	ask to shake hand with	 p4
+p3 	ask to shake hand with	 p4
+
+********** Time:  462  **********
+
+p4 	ask to shake hand with	 p3
+
+********** Time:  463  **********
+
+p3 	response the shake hand ask from	 p4
+
+********** Time:  464  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  465  **********
+
+p0 	ask to shake hand with	 p1
+p1 	ask to shake hand with	 p4
+p4 	is sending message to	 p3
+
+********** Time:  466  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  467  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  468  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  469  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  470  **********
+
+p0 	ask to shake hand with	 p1
+p1 	ask to shake hand with	 p4
+p4 	is sending message to	 p3
+
+********** Time:  471  **********
+
+
+********** Time:  472  **********
+
+p4 	ask to shake hand with	 p3
+
+********** Time:  473  **********
+
+p2 	ask to shake hand with	 p4
+p3 	response the shake hand ask from	 p4
+
+********** Time:  474  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  475  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  476  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  477  **********
+
+p0 	ask to shake hand with	 p1
+p4 	is sending message to	 p3
+
+********** Time:  478  **********
+
+p2 	ask to shake hand with	 p4
+p4 	is sending message to	 p3
+
+********** Time:  479  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  480  **********
+
+p4 	is sending message to	 p3
+
+********** Time:  481  **********
+
+p2 	ask to shake hand with	 p4
+
+********** Time:  482  **********
+
+p1 	ask to shake hand with	 p4
+p4 	ask to shake hand with	 p3
+
+********** Time:  483  **********
+
+p3 	ask to shake hand with	 p4
+
+********** Time:  484  **********
+
+p4 	response the shake hand ask from	 p3
+
+********** Time:  485  **********
+
+p0 	ask to shake hand with	 p1
+p3 	is sending message to	 p4
+
+********** Time:  486  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  487  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  488  **********
+
+p1 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  489  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  490  **********
+
+p2 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  491  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  492  **********
+
+
+********** Time:  493  **********
+
+p3 	ask to shake hand with	 p4
+
+********** Time:  494  **********
+
+p0 	ask to shake hand with	 p1
+p4 	response the shake hand ask from	 p3
+
+********** Time:  495  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  496  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  497  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  498  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  499  **********
+
+p1 	ask to shake hand with	 p4
+p2 	ask to shake hand with	 p4
+p3 	is sending message to	 p4
+
+********** Time:  500  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  501  **********
+
+p3 	is sending message to	 p4
+
+********** Time:  502  **********
+
+
+********** Time:  503  **********
+
+p0 	ask to shake hand with	 p1
+p3 	ask to shake hand with	 p4
+
+********** Time:  504  **********
+
+p4 	response the shake hand ask from	 p3
+
+********** Time:  505  **********
+
+p2 	ask to shake hand with	 p4

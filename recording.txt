@@ -1,0 +1,121 @@
+
+time: Fri Jul 21 10:43:08 2017 
+infoLength:	 100  	speed:	 1 	reShakeHandTime:	 5
+number:	 1 	demandAmount:	 10  	runtime:	 1048 	efficiency:	 97.32824427480917 %
+number:	 2 	demandAmount:	 5  	runtime:	 312 	efficiency:	 163.46153846153845 %
+number:	 3 	demandAmount:	 6  	runtime:	 622 	efficiency:	 98.39228295819936 %
+number:	 4 	demandAmount:	 5  	runtime:	 315 	efficiency:	 161.9047619047619 %
+number:	 5 	demandAmount:	 7  	runtime:	 728 	efficiency:	 98.07692307692308 %
+number:	 6 	demandAmount:	 8  	runtime:	 832 	efficiency:	 98.07692307692308 %
+number:	 7 	demandAmount:	 6  	runtime:	 622 	efficiency:	 98.39228295819936 %
+number:	 8 	demandAmount:	 4  	runtime:	 314 	efficiency:	 129.93630573248407 %
+number:	 9 	demandAmount:	 5  	runtime:	 417 	efficiency:	 122.3021582733813 %
+number:	 10 	demandAmount:	 7  	runtime:	 634 	efficiency:	 112.61829652996846 %
+number:	 11 	demandAmount:	 6  	runtime:	 540 	efficiency:	 113.33333333333333 %
+number:	 12 	demandAmount:	 6  	runtime:	 518 	efficiency:	 118.14671814671814 %
+number:	 13 	demandAmount:	 1  	runtime:	 102 	efficiency:	 100.0 %
+number:	 14 	demandAmount:	 6  	runtime:	 520 	efficiency:	 117.6923076923077 %
+number:	 15 	demandAmount:	 4  	runtime:	 312 	efficiency:	 130.76923076923077 %
+number:	 16 	demandAmount:	 7  	runtime:	 526 	efficiency:	 135.74144486692015 %
+number:	 17 	demandAmount:	 5  	runtime:	 518 	efficiency:	 98.45559845559846 %
+number:	 18 	demandAmount:	 7  	runtime:	 745 	efficiency:	 95.83892617449665 %
+number:	 19 	demandAmount:	 6  	runtime:	 621 	efficiency:	 98.55072463768116 %
+number:	 20 	demandAmount:	 6  	runtime:	 630 	efficiency:	 97.14285714285714 %
+
+time: Fri Jul 21 10:43:38 2017 
+infoLength:	 100  	speed:	 1 	reShakeHandTime:	 5
+number:	 21 	demandAmount:	 10  	runtime:	 1048 	efficiency:	 97.32824427480917 %
+number:	 22 	demandAmount:	 3  	runtime:	 309 	efficiency:	 99.02912621359224 %
+number:	 23 	demandAmount:	 7  	runtime:	 732 	efficiency:	 97.54098360655738 %
+number:	 24 	demandAmount:	 7  	runtime:	 625 	efficiency:	 114.24 %
+number:	 25 	demandAmount:	 11  	runtime:	 1143 	efficiency:	 98.16272965879266 %
+number:	 26 	demandAmount:	 8  	runtime:	 834 	efficiency:	 97.84172661870504 %
+number:	 27 	demandAmount:	 4  	runtime:	 412 	efficiency:	 99.02912621359224 %
+number:	 28 	demandAmount:	 6  	runtime:	 630 	efficiency:	 97.14285714285714 %
+number:	 29 	demandAmount:	 2  	runtime:	 205 	efficiency:	 99.51219512195122 %
+number:	 30 	demandAmount:	 12  	runtime:	 1251 	efficiency:	 97.84172661870504 %
+number:	 31 	demandAmount:	 6  	runtime:	 731 	efficiency:	 83.72093023255815 %
+number:	 32 	demandAmount:	 10  	runtime:	 1051 	efficiency:	 97.05042816365366 %
+number:	 33 	demandAmount:	 6  	runtime:	 727 	efficiency:	 84.18156808803302 %
+number:	 34 	demandAmount:	 6  	runtime:	 622 	efficiency:	 98.39228295819936 %
+number:	 35 	demandAmount:	 5  	runtime:	 529 	efficiency:	 96.40831758034027 %
+number:	 36 	demandAmount:	 6  	runtime:	 627 	efficiency:	 97.60765550239235 %
+number:	 37 	demandAmount:	 7  	runtime:	 732 	efficiency:	 97.54098360655738 %
+number:	 38 	demandAmount:	 8  	runtime:	 829 	efficiency:	 98.43184559710494 %
+number:	 39 	demandAmount:	 7  	runtime:	 726 	efficiency:	 98.34710743801652 %
+number:	 40 	demandAmount:	 4  	runtime:	 523 	efficiency:	 78.01147227533461 %
+
+time: Fri Jul 21 10:44:40 2017 
+infoLength:	 100  	speed:	 1 	reShakeHandTime:	 5
+number:	 41 	demandAmount:	 3  	runtime:	 205 	efficiency:	 149.26829268292684 %
+number:	 42 	demandAmount:	 6  	runtime:	 425 	efficiency:	 144.0 %
+number:	 43 	demandAmount:	 10  	runtime:	 1046 	efficiency:	 97.51434034416826 %
+number:	 44 	demandAmount:	 7  	runtime:	 752 	efficiency:	 94.94680851063829 %
+number:	 45 	demandAmount:	 2  	runtime:	 102 	efficiency:	 200.0 %
+number:	 46 	demandAmount:	 5  	runtime:	 519 	efficiency:	 98.26589595375722 %
+number:	 47 	demandAmount:	 7  	runtime:	 725 	efficiency:	 98.48275862068965 %
+number:	 48 	demandAmount:	 3  	runtime:	 308 	efficiency:	 99.35064935064935 %
+number:	 49 	demandAmount:	 5  	runtime:	 414 	efficiency:	 123.18840579710145 %
+number:	 50 	demandAmount:	 5  	runtime:	 318 	efficiency:	 160.37735849056602 %
+number:	 51 	demandAmount:	 11  	runtime:	 1163 	efficiency:	 96.47463456577816 %
+number:	 52 	demandAmount:	 6  	runtime:	 519 	efficiency:	 117.91907514450867 %
+number:	 53 	demandAmount:	 7  	runtime:	 740 	efficiency:	 96.48648648648648 %
+number:	 54 	demandAmount:	 8  	runtime:	 830 	efficiency:	 98.3132530120482 %
+number:	 55 	demandAmount:	 9  	runtime:	 937 	efficiency:	 97.97225186766275 %
+number:	 56 	demandAmount:	 6  	runtime:	 532 	efficiency:	 115.0375939849624 %
+number:	 57 	demandAmount:	 7  	runtime:	 738 	efficiency:	 96.7479674796748 %
+number:	 58 	demandAmount:	 2  	runtime:	 205 	efficiency:	 99.51219512195122 %
+number:	 59 	demandAmount:	 2  	runtime:	 217 	efficiency:	 94.00921658986175 %
+number:	 60 	demandAmount:	 9  	runtime:	 934 	efficiency:	 98.28693790149893 %
+
+time: Fri Jul 21 10:45:39 2017 
+infoLength:	 100  	speed:	 1 	reShakeHandTime:	 5
+
+time: Fri Jul 21 10:56:35 2017 
+infoLength:	 100  	speed:	 1 	reHandShakeTime:	 5
+number:	 61 	demandAmount:	 4  	runtime:	 413 	efficiency:	 98.78934624697337 %
+number:	 62 	demandAmount:	 5  	runtime:	 538 	efficiency:	 94.79553903345725 %
+number:	 63 	demandAmount:	 5  	runtime:	 432 	efficiency:	 118.05555555555556 %
+number:	 64 	demandAmount:	 5  	runtime:	 434 	efficiency:	 117.51152073732719 %
+number:	 65 	demandAmount:	 3  	runtime:	 210 	efficiency:	 145.71428571428572 %
+number:	 66 	demandAmount:	 7  	runtime:	 624 	efficiency:	 114.42307692307692 %
+number:	 67 	demandAmount:	 4  	runtime:	 421 	efficiency:	 96.91211401425178 %
+number:	 68 	demandAmount:	 2  	runtime:	 207 	efficiency:	 98.55072463768116 %
+number:	 69 	demandAmount:	 7  	runtime:	 728 	efficiency:	 98.07692307692308 %
+number:	 70 	demandAmount:	 9  	runtime:	 936 	efficiency:	 98.07692307692308 %
+number:	 71 	demandAmount:	 5  	runtime:	 523 	efficiency:	 97.51434034416826 %
+number:	 72 	demandAmount:	 4  	runtime:	 415 	efficiency:	 98.3132530120482 %
+number:	 73 	demandAmount:	 8  	runtime:	 837 	efficiency:	 97.4910394265233 %
+number:	 74 	demandAmount:	 5  	runtime:	 414 	efficiency:	 123.18840579710145 %
+number:	 75 	demandAmount:	 7  	runtime:	 521 	efficiency:	 137.04414587332053 %
+number:	 76 	demandAmount:	 3  	runtime:	 319 	efficiency:	 95.92476489028213 %
+number:	 77 	demandAmount:	 8  	runtime:	 845 	efficiency:	 96.5680473372781 %
+number:	 78 	demandAmount:	 6  	runtime:	 520 	efficiency:	 117.6923076923077 %
+number:	 79 	demandAmount:	 3  	runtime:	 311 	efficiency:	 98.39228295819936 %
+number:	 80 	demandAmount:	 4  	runtime:	 313 	efficiency:	 130.3514376996805 %
+
+time: Fri Jul 21 11:00:59 2017 
+infoLength:	 100  	speed:	 1 	reHandShakeTime:	 5
+
+time: Fri Jul 21 11:01:56 2017 
+infoLength:	 100  	speed:	 1 	reHandShakeTime:	 5
+number:	 1 	demandAmount:	 2  	runtime:	 206 	efficiency:	 99.02912621359224 %
+number:	 2 	demandAmount:	 2  	runtime:	 205 	efficiency:	 99.51219512195122 %
+number:	 3 	demandAmount:	 8  	runtime:	 832 	efficiency:	 98.07692307692308 %
+number:	 4 	demandAmount:	 5  	runtime:	 314 	efficiency:	 162.4203821656051 %
+number:	 5 	demandAmount:	 1  	runtime:	 102 	efficiency:	 100.0 %
+number:	 6 	demandAmount:	 11  	runtime:	 1160 	efficiency:	 96.72413793103448 %
+number:	 7 	demandAmount:	 3  	runtime:	 323 	efficiency:	 94.73684210526316 %
+number:	 8 	demandAmount:	 6  	runtime:	 625 	efficiency:	 97.92 %
+number:	 9 	demandAmount:	 3  	runtime:	 313 	efficiency:	 97.76357827476038 %
+number:	 10 	demandAmount:	 14  	runtime:	 1458 	efficiency:	 97.94238683127573 %
+number:	 11 	demandAmount:	 7  	runtime:	 729 	efficiency:	 97.94238683127573 %
+number:	 12 	demandAmount:	 2  	runtime:	 205 	efficiency:	 99.51219512195122 %
+number:	 13 	demandAmount:	 2  	runtime:	 209 	efficiency:	 97.60765550239235 %
+number:	 14 	demandAmount:	 6  	runtime:	 522 	efficiency:	 117.24137931034483 %
+number:	 15 	demandAmount:	 9  	runtime:	 946 	efficiency:	 97.04016913319239 %
+number:	 16 	demandAmount:	 3  	runtime:	 208 	efficiency:	 147.1153846153846 %
+number:	 17 	demandAmount:	 10  	runtime:	 1041 	efficiency:	 97.98270893371757 %
+number:	 18 	demandAmount:	 5  	runtime:	 532 	efficiency:	 95.86466165413533 %
+number:	 19 	demandAmount:	 3  	runtime:	 205 	efficiency:	 149.26829268292684 %
+number:	 20 	demandAmount:	 9  	runtime:	 939 	efficiency:	 97.76357827476038 %
